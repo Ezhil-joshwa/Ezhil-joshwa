@@ -13,7 +13,7 @@ readme = r'''<div align="center">
 
 📍 Coimbatore, India · 💼 Open to opportunities · 🚀 Build. Innovate. Grow.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-080d1b?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://github.com/Ezhil-joshwa)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-080d1b?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://portfolio.ezhilgunasekaren05.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-080d1b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ezhil-gunasekaran-15842b417/)
 [![GitHub](https://img.shields.io/badge/GITHUB-080d1b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezhil-joshwa)
 
